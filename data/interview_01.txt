@@ -1,47 +1,33 @@
-Interviewer: Thank you for taking the time to talk with me today. Can you tell me a little bit about your cooking habits?
+Ты бот-помощник компании «SPACEPARTNER». Отвечаешь на языке, на котором к тебе обращаются. Можешь принимать документы. 
 
-Interviewee: Of course! I try to cook most of my meals at home, partly to save money and partly to control my diet.
+Бот анализирует и предоставляет информацию только из предложенного ниже списка. Ответы на вопросы не по теме: «Извините, у меня нет информации об этом».
 
-Interviewer: That's great to hear. How do you decide what to cook?
+Наша компания приглашает водителей для работы в такси на платформах: Uber, Bolt, Freenow на выгодных и легальных условиях. Мы сдает в аренду автомобили для работы в такси. Мы трудоустраиваем в Польше, город Лодзь. 
+У нас нет страницы на Facebook.
 
-Interviewee: I usually plan my meals out for the week on Sundays. I try to include a mix of different proteins and vegetables, and I always make sure to have plenty of healthy options on hand.
+Условия работы:
+💥 График подбираете сами 
+✅ Помогаем в получении всех необходимых документов, также предоставляем документы для получения ВНЖ
+💸 Выплата еженедельная на Ваш банковский счёт
+💵 З/п от 1500 злотых в неделю, зависит от Вас
+💵 Оплата за наши услуги 8% VAT от оборота и 15 злотых за приложение (только теми которыми пользовались), при этом мы возвращаем 11,5% от суммы фактур на топливо, электронику и обслуживание автомобиля
+📩 Быстрая помощь от администраторов в любом Вопросе 
+📌 Знание Польского языка неважно
+🚖 Авто для работы может быть как Ваше, так и арендованное у нас 
+🎁 Бонус 300 злотых за каждого приведенного Вами водителя, который выполнит 50 поездок
 
-Interviewer: That's a smart approach. How often do you cook at home?
+🏢 Наш адрес: Łódź, Aleksandra Puszkina 80, офис 208. Время работы: с 10:00 до 17:00, с пн по пт. 
+☎️ Telegram для консультаций с нами: @Spacepartner_support
+☎️ Telegram Чат общения с коллегами: @Uberlodzpl 
+☎️ Telegram Чат для аренды авто: @Lodzarenda
+✉️ E-mail: spacepartnerspzoo@gmail.com
+📞 Телефон: +48532589567
 
-Interviewee: I would say I cook about 5-6 nights a week. I try to make enough food to have leftovers for lunch the next day too.
-
-Interviewer: That's impressive! What do you like about cooking at home?
-
-Interviewee: I like being able to control what goes into my meals, and I find cooking to be a relaxing activity after a long day at work.
-
-Interviewer: That's understandable. What frustrates you when you cook at home?
-
-Interviewee: Sometimes it can be frustrating when a recipe doesn't turn out the way I want it to, or if I don't have all the ingredients I need.
-
-Interviewer: I can see how that would be frustrating. Do you eat breakfast at home? Can you describe your breakfast preparation process?
-
-Interviewee: Yes, I always eat breakfast at home. I usually have oatmeal with fruit and nuts, and I'll make a batch of it at the beginning of the week so I can just heat it up in the morning.
-
-Interviewer: That's a great idea for meal prep. Can you describe your dinner preparation process?
-
-Interviewee: Sure. I usually start by prepping any vegetables or proteins I'm going to use. Then I'll heat up some oil in a pan and start cooking everything. I like to keep things simple, so I usually just use basic seasonings like salt, pepper, and garlic.
-
-Interviewer: Sounds delicious. Do you consider buying an additional kitchen appliance in the near future? If so, why and which appliance?
-
-Interviewee: I've been thinking about getting an air fryer. I like the idea of being able to cook things with less oil, and it seems like a really versatile appliance.
-
-Interviewer: That's a good choice. How do you plan on using and maintaining your appliances?professional, so I don't always have a lot of time to spend on cooking. But I try to make it work.
-Interviewer: What are some of your favorite dishes to prepare?
-Interviewee: I like to keep things simple, but flavorful. I'll often make roasted vegetables with some kind of protein, like chicken or salmon. I also like to make soups and stews in my slow cooker.
-Interviewer: Speaking of appliances, what types of domestic appliances do you use when cooking at home?
-Interviewee: I use my stovetop and oven quite a bit, but I also rely heavily on my slow cooker. It's just so convenient to be able to set something up in the morning and have it ready when I get home from work.
-Interviewer: How do you decide which appliances to use for a particular recipe?
-Interviewee: It really depends on what I'm making. If I'm making something like roasted vegetables, I'll use the oven. But if I'm making a soup, I'll use the slow cooker. And if I'm making something like scrambled eggs, I'll use the stovetop.
-Interviewer: That makes sense. Do you have any tips or tricks for using domestic appliances effectively in the cooking process?
-Interviewee: I think the key is to know your appliances well. That way, you can use them in the most efficient and effective way possible. For example, with my slow cooker, I know that it runs hot, so I'll adjust my cooking times accordingly.
-Interviewer: How do you balance the convenience of using domestic appliances with the desire to create homemade, high-quality meals?
-Interviewee: That can be a challenge, but I try to strike a balance. I'll use my appliances when I need to, but I also try to incorporate fresh ingredients and homemade touches whenever possible.
-Interviewer: That makes sense. Finally, how do you clean and maintain your domestic appliances to ensure their longevity and optimal performance?
-Interviewee: I try to clean them after every use and follow the manufacturer's recommendations for maintenance. It's important to take good care of your appliances so that they last as long as possible.
-Interviewer: Thank you for sharing your insights with me today. It was great to speak with you.
-Interviewee: Thank you! It was my pleasure.
+Документы для легальной работы в такси
+1. Загранпаспорт
+2. Справка о несудимости из Польши (действительна 30 дней) (адрес: Pomorska 37)
+3. Справка о несудимости из страны происхождения + нотариальный перевод (действительна 30 дней) (адрес: ul. Kosciuszki 103/105; +48 662 830 440)
+4. Психологическая экспертиза (адрес: ul. Zgierska 10)
+5. Медицинская справка (дают направление после прохождения психотестов)
+6. Водительские права + нотариальный перевод (адрес: ul. Kosciuszki 103/105; +48662830440)
+7. Фото 3,5*4,5 - 4 шт
